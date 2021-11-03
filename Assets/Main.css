@@ -1,0 +1,33 @@
+img {
+    width: 150px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 14px;
+}
+body {
+    background-color:rgba(12, 38, 49, 0.877)
+}
+h2 {
+    color:rgb(0, 0, 0)
+}
+
+.heading{
+    color: blue;
+}
+html,body {
+    font-family: 'Raleway', sans-serif;
+    padding: 1em 2em;
+    font-size: 18px;
+    background: #222;
+    color: #aaa
+  }
+  
+  h1,h2 {
+    font-weight: 200;
+    margin: 0.4em 0;
+  }
+  h1 { font-size: 3.5em; }
+  h2 {
+    color: #888;
+    font-size: 2em;
+  }
